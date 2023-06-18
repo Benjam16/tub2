@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.tubbymiladymaker.net	TRUE	/	FALSE	1999999999	userid	a5754db7-2398-4e2e-b3f2-1ac70f3d0836
+
